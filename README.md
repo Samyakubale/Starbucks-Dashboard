@@ -2,9 +2,13 @@
 
 An interactive Power BI dashboard project focused on analyzing Starbucks' global store distribution and beverage nutrition data. This project uses data visualization and business intelligence techniques to explore store locations, ownership types, beverage categories, nutritional values, calories, and caffeine content.
 
+## Dashboard Preview
+<img width="1536" height="861" alt="Screenshot 2026-11-18 003159" src="https://github.com/user-attachments/assets/dafdb54b-4d35-4c6f-9389-b5b37edef895" />
+
 **Tools & Technologies:** Power BI, Power Query, DAX, Data Visualization
 
 **Datasets:**
+
 - `directory.csv` – Global Starbucks store directory containing store locations, ownership types, country, city, and geographical coordinates.
 - `starbucks.csv` – Starbucks beverage nutrition dataset containing calories, fat, sugar, protein, caffeine, and other nutritional information.
 
